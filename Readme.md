@@ -1,14 +1,22 @@
-# DOM_Manipulation_Projects 
-## This Repository contains Number of DOM Manipulation assignments in JS. 
+# JavaScript_Project01_NameConversion 
+## This Repository contains JavaScript assignment. 
+
 
 kindly suggest me for suggestion and if any improvement needed.
 
+
 ## 😌 Honest Time to finish the project
-For Completing this whole assignment i spend more than 8 hrs. 
-For Manipulating starting Projects need some research then it will get solve easily. 
+For Completing this whole assignment i spend more than 2 days. 
 
 
-![Badge](https://img.shields.io/badge/Projects%20of%20DOM%20Manipulation-Using%20JS-orange)
+# Live Link
+
+![Please Click me](https://name-changer-parag.netlify.app/)
+
+
+
+![Badge](https://img.shields.io/badge/JavaScript%20Project-Name__Conversion-blue)
+
 
 
 
